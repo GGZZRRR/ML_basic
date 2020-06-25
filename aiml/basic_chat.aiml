@@ -1,0 +1,24 @@
+<aiml version="0.9.2" encoding="UTF-8">
+    <category>
+        <pattern>hello</pattern>
+
+        <template>
+            hello world
+        </template>
+    </category>
+
+    <category>
+        <pattern>啥子</pattern>
+        <template>
+            gun
+        </template>
+    </category>
+
+    <category>
+        <pattern>* YOU</pattern>
+        <template>
+            I am fine, thank you, and you?
+        </template>
+    </category>
+
+</aiml>
