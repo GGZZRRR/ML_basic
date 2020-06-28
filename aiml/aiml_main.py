@@ -5,4 +5,4 @@ k.learn("std-startup.xml")
 k.respond("load aiml b")
 
 while True:
-    print(k.respond(input("input >> ")))
+    print(k.respond(input("input >> ")).replace(" ",""))
