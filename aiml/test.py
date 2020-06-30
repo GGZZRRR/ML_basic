@@ -1,8 +1,0 @@
-'''
-    <category>
-        <pattern></pattern>
-        <template>
-
-        </template>
-    </category>
-'''
